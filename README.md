@@ -13,6 +13,6 @@ Refer to documenation at the following url for information on starting Azurite:
 
 To launch:
 
-```
+```bash
   . ./azurite.sh
 ```
