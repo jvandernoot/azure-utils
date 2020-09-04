@@ -2,6 +2,13 @@
 
 Collection of utils for Azure
 
+## Azure Quickstart Templates
+
+A collection of ARM templates used for creating resources in Azure:
+
+- [Microsoft](https://azure.microsoft.com/en-us/resources/templates/)
+- [GitHub](https://github.com/Azure/azure-quickstart-templates)
+
 ## Azurite
 
 An emulator for Azure Storage. Emulates blob, tables, and queues.
