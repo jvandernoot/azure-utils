@@ -1,6 +1,6 @@
 # azure-utils
 
-Collection of utils for Azure
+Collection of utils for Azure.
 
 ## Azure Quickstart Templates
 
